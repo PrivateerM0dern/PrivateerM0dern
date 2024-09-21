@@ -5,13 +5,13 @@
 
 <img src="https://media1.giphy.com/media/oVWJaca8a3IpW/giphy.gif" width="70%">
 
-`Fsociety`
+`PrivateerM0dern`
 
 </div>
 
 <h2 align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&weight=600&size=18&duration=2000&pause=1000&color=850180FF&width=120&height=30&lines=Hi+there" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&weight=600&size=18&duration=2000&pause=1000&color=7454BB&width=120&height=30&lines=Hi+there" width="20%">
 
 </h2>
 
@@ -25,23 +25,38 @@ I am passionate about ***software development***, ***cybersecurity***, and ***te
 ***Feel free to connect and collaborate! Don’t hesitate to reach out if you’re interested in contributing together***.
 
 ---
-<div align="center">
 
-`PrivateerM0dern`
 
-</div>
+**I am a passionate and curious individual driven by the love for technology.**  
+Constantly seeking opportunities to expand my knowledge in various tech domains, I enjoy:
+
+- 🧠 **Learning new programming languages**
+- 🚀 **Exploring emerging trends in technology**
+- 🔒 **Diving into the world of cybersecurity**
+
+My philosophy is simple: _there's always something new to discover._
+
+---
+
+## 🔧 What I Do
+
+I thrive in collaborative environments where I can both learn from others and contribute meaningfully to projects. You'll find me working on:
+
+- 🔍 **Open-source development**
+- 💡 **Innovative software solutions**
+- 🌐 **Cutting-edge technology research**
+
+Each project here represents a milestone in my journey of **continuous learning** and **exploration**. Every challenge brings an opportunity to grow!
 
 ---
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<div align="center"> 
-  
+<img align="right" width="30%" src="https://media.tenor.com/aJ79h53uS8QAAAAj/anonalien.gif"/>
 
-  ![h4ckxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrivateerM0dern&show_icons=true&theme=neon)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PrivateerM0dern&show_icons=true&theme=neon" width="50%">
 
-</div>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrivateerM0dern&theme=neon" width="400" />
+<p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrivateerM0dern&theme=neon" width="470" />
 
-<p align="center"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivateerM0dern&layout=compact&theme=neon" width="400"" />
+<p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivateerM0dern&layout=compact&theme=neon" width="470"" />
