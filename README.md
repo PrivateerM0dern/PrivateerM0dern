@@ -25,8 +25,13 @@ I am passionate about ***software development***, ***cybersecurity***, and ***te
 ***Feel free to connect and collaborate! Don’t hesitate to reach out if you’re interested in contributing together***.
 
 ---
+<div align="center">
 
+<img src="https://media1.tenor.com/m/H89ELl3mV5cAAAAd/ghost-creepy.gif" width="70%">
 
+`PrivateerM0dern`
+
+</div>
 
 ---
 
