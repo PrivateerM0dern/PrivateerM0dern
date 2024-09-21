@@ -15,7 +15,7 @@
 
 </h2>
 
-<img width="16%" align='right' src="https://preview.redd.it/does-michael-davies-from-faith-be-better-as-a-skin-or-v0-uxiavlt1nqid1.gif?format=png8&s=6c2d0fab79ebe7ecc9e038e45fd801af82099eea">
+<img width="16.99%" align='right' src="https://preview.redd.it/does-michael-davies-from-faith-be-better-as-a-skin-or-v0-uxiavlt1nqid1.gif?format=png8&s=6c2d0fab79ebe7ecc9e038e45fd801af82099eea">
 
 I am an enthusiastic learner and explorer in the world of technology. My curiosity drives me to discover new tools, *programming languages*, and *emerging trends*. I am always willing to contribute to *collaborative projects* and *share my knowledge* with others.
 
