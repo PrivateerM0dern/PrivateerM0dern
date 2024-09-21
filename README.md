@@ -1,11 +1,12 @@
-# ***h4ckxel is editing this README***
+<div align="center">
 
----
+# `PrivateerM0dern` 
+
+</div>
+
 <div align="center">
 
 <img src="https://media1.giphy.com/media/oVWJaca8a3IpW/giphy.gif" width="70%">
-
-`PrivateerM0dern`
 
 </div>
 
