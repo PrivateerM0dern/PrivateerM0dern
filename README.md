@@ -52,14 +52,14 @@ Each project here represents a milestone in my journey of **continuous learning*
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<img align="right" width="30%" src="https://media.tenor.com/aJ79h53uS8QAAAAj/anonalien.gif"/>
+<img align="right" width="35%" src="https://media4.giphy.com/media/l7Q2qhak4X2kU/200w.gif?cid=6c09b9529113xk5anulh2j8i92ztrre9itgjtdmrssp8u8q6&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PrivateerM0dern&show_icons=true&theme=neon" width="60%">
 
 
 <p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrivateerM0dern&theme=neon" width="470" />
+<img align="right" width="30%" src="https://media.tenor.com/aJ79h53uS8QAAAAj/anonalien.gif"/>
 
-<img align="right" width="45%" src="https://i.gifer.com/3BBS.gif"/>
 
 
 <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivateerM0dern&layout=compact&theme=neon" width="470"" />
