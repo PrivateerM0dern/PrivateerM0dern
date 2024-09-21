@@ -27,7 +27,7 @@ I am passionate about ***software development***, ***cybersecurity***, and ***te
 ---
 <div align="center">
 
-<img src="https://media1.tenor.com/m/H89ELl3mV5cAAAAd/ghost-creepy.gif" width="70%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh0NTQ3OGVxM3pha3UzcTFpOWh6bGJvZnkwYmVyYjFlbGVkYnR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YoUGWAcEwky6R3LH4k/giphy.webp" width="100%">
 
 `PrivateerM0dern`
 
