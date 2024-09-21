@@ -52,10 +52,10 @@ Each project here represents a milestone in my journey of **continuous learning*
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
-<img align="right" width="30%" src="https://media.tenor.com/aJ79h53uS8QAAAAj/anonalien.gif"/>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=PrivateerM0dern&show_icons=true&theme=neon" width="60%">
 
+<img align="right" width="30%" src="https://media.tenor.com/aJ79h53uS8QAAAAj/anonalien.gif"/>
 <p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrivateerM0dern&theme=neon" width="450" />
 
 
