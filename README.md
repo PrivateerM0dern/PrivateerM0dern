@@ -59,4 +59,7 @@ Each project here represents a milestone in my journey of **continuous learning*
 
 <p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrivateerM0dern&theme=neon" width="470" />
 
+<img align="right" width="45%" src="https://i.gifer.com/3BBS.gif"/>
+
+
 <p align="left"><a href="https://github.com/h4ckxel/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivateerM0dern&layout=compact&theme=neon" width="470"" />
